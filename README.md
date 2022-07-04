@@ -1,7 +1,7 @@
 # MSc-AI at University of Aberdeen
 In this repository, I will post my experience of the [MSc in Artificial Intelligence](https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/1034/artificial-intelligence/) program at University of Aberdeen. I hope you find this useful if you are considering to undertake this course.
 
-My main [motivation](my_motivation.md) to join the couse was to complement current engineering practices with AI.
+My main motivation to join the couse was to complement current engineering practices with AI.
 
 ## About the University
 The computing science department of University of Aberdeen is consistently ranked in [top 5](https://www.abdn.ac.uk/study/undergraduate/degree-programmes/527/G400/computing-science/#:~:text=Aberdeen%20is%20ranked%202nd%20in,Times%20Good%20University%20Guide%202021.) in UK. The university has very good computing labs and flexible degree programmes. 
