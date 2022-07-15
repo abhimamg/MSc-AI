@@ -41,7 +41,7 @@ The following modules were based on the coursework for 2019-2021 session.
 * CS551K	Software Agents And Multi-Agent Systems
 * CS5917	MSc Project In Artificial Intelligence
 
-The [MSc Project](./MSc%20Project/thesis.pdf) was on using active machine learning in engineering simulations.
+The [MSc Project](./MSc%20Project/thesis.pdf) was on using active machine learning for optimising engineering simulations.
 
 ## Big takeaway
 The easiest way to master anything is applying it. Find a problem you are sufficiently interested in solving with AI. Learn everything about the problem and then go explore what tools are available in the world to solve your problem. Keep improvising until you are satisfied with the solution. Motivation (from yourself) and good advice (from professors/colleagues with experience) is all you need.
