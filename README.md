@@ -8,18 +8,16 @@ The computing science department of University of Aberdeen is consistently ranke
 
 In my opinion, the most amazing thing about the university MSc AI course is the interaction with the faculty. They are very approachable, helpful and so enthusiastic about your learning.  They will go an extra mile to make things easy for you to understand. You can irritate them with your silly questions during the lectures or ask for advise on topics they are not related to your coursework. They also welcome students who aspire  to add to their learning by getting involved in the university's research projects. 
 
-I frequently had helpful discussions with [Dr. Dewei Yi](https://www.abdn.ac.uk/people/dewei.yi/) and [Dr. Georgios Leontidis](https://www.abdn.ac.uk/people/georgios.leontidis/) about the ways of applying AI within the context of oil and gas business, what research they have done and what simillar problems have been solved in other industries with or without AI. 
-
 ## Pre-requisites
 I recommend that you have some background knowledge of artificial intelligence and machine learning before you start into the course. The modules are intensive and you are expected to hit the ground running the first day. 
 
 [Effective Computation in Physics: Field Guide to Research with Python](https://www.amazon.co.uk/dp/B010ORQ8DG)
-If you don't have a good working knowledge of python then I would recommend to start here. AI involves a lot of programming and it is important for you to enjoy coding and problem solving which this book teaches you. The book is for anyone doing any kind of numerical computation work in python and it also teaches good software skills. It covers a wide range of topics, so it's great for getting introduced to a lot of different things.
+If you don't have a good working knowledge of python then I would recommend to start here. AI involves a lot of programming and it is important for you to enjoy coding and problem solving which this book teaches you. The book is for anyone doing any kind of numerical computation work in python and it also teaches good software dev skills. 
 
 [Artificial Intelligence: A Modern Approach](https://www.amazon.co.uk/dp/1292401133) 
 This book needs no introduction. This edition covers most of the advances that have appeared during the last decade (and there have been many of them!). Although not a strict pre-requisite for the course, as some of the modules are based on the chapters of the book but, I would recommend to skim through this book as it gives you a holistic overview of what AI is and what it is not. You can also go though the amazing lectures provided freely by University of Berkley [CS188](http://ai.berkeley.edu/home.html) course
 
-[An Introduction to Statistical Learning](https://www.amazon.co.uk/dp/1071614177) I have found this is by far the most helpful book on statistical learning. The only downside is that it uses R ( which is not that difficult to learn, by the way!) This book connects theory and application very well.
+[An Introduction to Statistical Learning](https://www.amazon.co.uk/dp/1071614177) I have found this is by far the most helpful book on statistical learning. The only downside is that it uses R. This book connects theory and application very well.
 
 [Mathematics for Machine Learning Specialization)](https://www.coursera.org/specializations/mathematics-machine-learning) 
 Very good refresher if you need to review your math skills. You would be able to perform machine learning superficially without going into math of it but it is really helps to understand the core logic of the algorithms. 
